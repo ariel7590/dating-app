@@ -75,28 +75,26 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Ariel\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Ariel\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\git repos\\dating-app\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\Ariel\\Desktop\\Projects\\dating-app\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "E:\\git repos\\dating-app\\API\\API.csproj",
+      "projectPath": "C:\\Users\\Ariel\\Desktop\\Projects\\dating-app\\API\\API.csproj",
       "packagesPath": "C:\\Users\\Ariel\\.nuget\\packages\\",
-      "outputPath": "E:\\git repos\\dating-app\\API\\obj\\",
+      "outputPath": "C:\\Users\\Ariel\\Desktop\\Projects\\dating-app\\API\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Ariel\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Ariel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
